@@ -1,2 +1,0 @@
-# ChessReact
-Ches with React
