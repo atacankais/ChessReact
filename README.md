@@ -5,7 +5,7 @@ Download the latest setup.exe from releases or clone the repo and run 'npm i && 
 
 ## Built With
 * [React.js](https://react.dev/)
-*
+
 
 ## Program walk-through:
 
